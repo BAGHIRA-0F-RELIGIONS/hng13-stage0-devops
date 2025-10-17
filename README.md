@@ -10,4 +10,4 @@ This project demonstrates setting up a **GitHub workflow**, deploying an **NGINX
 ---
 
 ## Server IP / Domain
-*(Add this after deployment)*
+*18.232.139.52*
