@@ -1,6 +1,6 @@
 # Bahir Momodu
 
-**Slack Username:** Bahir Momodu  
+**Slack Username:** SIRE BAGHIRA  
 
 ---
 
